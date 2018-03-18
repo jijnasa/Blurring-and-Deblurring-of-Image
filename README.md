@@ -1,8 +1,3 @@
-Convolutional neural network practical (2)
-==========================================
-
-A computer vision practical by the Oxford Visual Geometry group,
-authored by Andrea Vedaldi, Karel Lenc, and Joao Henriques.
 
 Start from `doc/instructions.html`.
 
@@ -50,32 +45,3 @@ pre-built binaries, but MatConvNet does not.
    `data/text_imdb.mat`.
 3. Test the practical: from MATLAB run all the exercises in order.
 
-Changes
--------
-
-* *2016a* - Initial edition
-
-License
--------
-
-    Copyright (c) 16 Andrea Vedaldi, Karel Lenc, and Joao Henriques
-
-    Permission is hereby granted, free of charge, to any person
-    obtaining a copy of this software and associated documentation
-    files (the "Software"), to deal in the Software without
-    restriction, including without limitation the rights to use, copy,
-    modify, merge, publish, distribute, sublicense, and/or sell copies
-    of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be
-    included in all copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-    HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-    DEALINGS IN THE SOFTWARE.
